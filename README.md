@@ -1,18 +1,29 @@
 
 # 📊 TextBlob Sentiment Analyzer
 
-The script analyzes a given piece of text and classifies the sentiment as **positive**, **negative**, or **neutral**, while returning a corresponding **sentiment score**.
+This project is a simple web-based **Sentiment Analyzer** built using **TextBlob** and **Flask**.  
+It analyzes a given piece of text and classifies the sentiment as **positive**, **negative**, or **neutral**, while returning a corresponding **sentiment score**.
 
 ---
 
 ## 🚀 Features
 
-- Analyze sentiment from input text
-- Return a sentiment label: `POSITIVE`, `NEGATIVE`, or `NEUTRAL`
-- Output a score indicating sentiment strength
+- REST API with Flask
+- Sentiment detection using TextBlob
 - Includes unit tests with `unittest`
 
 ---
+
+## Requirments
+- Flask
+- TextBlob
+
+You can install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## 🛠️ Installation
 
