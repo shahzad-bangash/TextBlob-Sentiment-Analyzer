@@ -19,7 +19,7 @@ The script analyzes a given piece of text and classifies the sentiment as **posi
 1. Clone this repository:
    ```bash
    git clone https://github.com/shahzad-bangash/TextBlob-Sentiment-Analyzer
-   cd sentiment-analyzer-textblob
+   cd TextBlob-Sentiment-Analyzer
 
 2. run server.py script
 
